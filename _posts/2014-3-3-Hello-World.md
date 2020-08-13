@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Being a data scientist or statistians?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I think being a data scientist is about applying statistical knowledge to the real world. People who are willing to be a data scientist should learn more coding languages than statistians, and they also should know some basic statistical theory. The major duties of data scientists is to process different kinds of data and select accurate model to analyze data, then get the explicable results. They are more focus on unstructured data, so they need to use various coding languages on data cleasing, data transformation and so on. The differences between data scientists and statisticians is that data scientists are more proficient in coding and data processing and model selection, and statisticians know more about statistical principles. Statisticians should learn about how these models come from, how these models work for datasets.The similarities are that they both need to have statistical background, and work with many datasets. For myself, I prefer to be a data scientist, because I want to work on the real datasets. But now I may be more likely to be a statistician. I have studied statistics for more than 4 years, and I have no ideas about other coding languages except R and SAS. Python is useful to a data scientist, and I hope I will have chance to study it.  
