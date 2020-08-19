@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Hobbies
 
-### More Information
+  *  Swimming  
+  *  Music  
+      +  Singing  
+      +  Playing the piano  
+  *  Statistics  
 
-A place to include any other types of information that you'd like to include about yourself.
+### My Favorite Singer
+![](/Users/yuyaoliu/Desktop/Jay_Chou.jpg)
+My favorite singer is [Jay Chou](https://en.wikipedia.org/wiki/Jay_Chou).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yliu258@ncsu.edu](mailto:yliu258@ncsu.edu)
