@@ -13,7 +13,7 @@ permalink: /about/
   *  Statistics  
 
 ### My Favorite Singer
-![](/Users/yuyaoliu/Desktop/Jay_Chou.jpg)
+
 My favorite singer is [Jay Chou](https://en.wikipedia.org/wiki/Jay_Chou).
 
 ### Contact me
