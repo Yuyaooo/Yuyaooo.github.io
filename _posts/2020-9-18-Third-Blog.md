@@ -15,6 +15,6 @@ The most difficult part of the logic and programming for me is that writing func
 – what are your big take-aways for future projects?
 How to well understand the instruction, how to well instruct the function, and how to well used github. 
 
-Here is my [vignette](https://en.wikipedia.org/wiki/Jay_Chou).
+Here is my [vignette](https://yuyaooo.github.io/ST558Project1/).
 
 
