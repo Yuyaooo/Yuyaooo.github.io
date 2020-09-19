@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The First Porject
+title: The First Project
 ---
 
 **About my Project 1**
