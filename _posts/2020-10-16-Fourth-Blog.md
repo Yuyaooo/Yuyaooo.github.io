@@ -4,8 +4,8 @@ title: The Second Project
 ---
 
 # About my Project 2
-
-The project 2 creates predictive models to predict number of shares of online news data using multiple variables and automate seven markdown reports for every day of week. For now, I use two nonlinear model which are regression tree and boosted tree. Then, we can compare these two models using some statistics such as RMSE or MAE to choose the more accurate one. 
+9
+The project 2 creates predictive models to predict number of shares of [online news popularity data](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity) using multiple variables and automate seven markdown reports for every day of week. For now, I use two nonlinear model which are regression tree and boosted tree. Then, we can compare these two models using some statistics such as RMSE or MAE to choose the more accurate one. 
 
 # Discussion
 
